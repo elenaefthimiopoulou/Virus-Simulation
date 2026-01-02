@@ -56,7 +56,7 @@ This project adheres to the strict architectural requirements of the assignment:
 /bin
   /assets         <-- Contains font.ttf (REQUIRED)
   virus_sim.exe
-/src
+/test
   main.cpp        <-- Entry point, SGG callbacks
   GlobalState.h   <-- Singleton Manager
   GlobalState.cpp
@@ -64,3 +64,4 @@ This project adheres to the strict architectural requirements of the assignment:
   Node.cpp
   UI.h            <-- Widget, Button, Slider classes
 README.md
+
