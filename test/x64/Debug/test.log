@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  GlobalState.cpp
+C:\Users\elena\Downloads\cpp_project\test\test\GlobalState.cpp(86,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\elena\Downloads\cpp_project\test\test\GlobalState.cpp(87,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  test.vcxproj -> C:\Users\elena\Downloads\cpp_project\test\bin\testd.exe
